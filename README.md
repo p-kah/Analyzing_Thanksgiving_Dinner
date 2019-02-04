@@ -1,6 +1,6 @@
 # Analyzing_Thanksgiving_Dinner
 
-This project analyzes thanksgiving celebration in the US.
+This project analyzes the interesting trends in thanksgiving celebration in the US.
 
 This looks at topics such as the type of food they eat,distance people are willing to travel travelled.
 
@@ -12,4 +12,4 @@ The dataset has 65 columns, and 1058 rows. Most of the column names are question
 
 Turkey Other (please specify) Ham/Pork Tofurkey Chicken Roast beef I don't know Turducken Most of the columns follow the same question/response format as the above. There are also quite a few NaN values in the columns, which occurred when a survey respondent didn't fill out a question because they didn't want to, or it didn't apply to them.
 
-In this project, we'll explore the data, and try to find interesting patterns.
+
